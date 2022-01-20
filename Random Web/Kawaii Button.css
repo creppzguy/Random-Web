@@ -9,3 +9,15 @@
     margin: 4px 2px;
     cursor: pointer
 }
+
+.header {
+    height: 100px;
+    text-align: center;
+}
+
+.body {
+        background-image: url(kossuth.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+}
