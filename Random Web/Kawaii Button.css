@@ -1,7 +1,7 @@
 .Kossuth {
-    border: 10cm;
-    background-color: lightgray;
-    padding: 15px 32px;
+    border: 100cm;
+    background-color: yellow;
+    padding: 35px 60px;
     text-align: center;
     text-decoration: double;
     display: ruby;
@@ -11,8 +11,12 @@
 }
 
 .header {
-    height: 100px;
-    text-align: center;
+    padding: 10px;
+    height: 125px;
+    text-align:center;
+    color: darkred;
+    font-size: 30px;
+    background-image: url(ohhhhhhh.png);
 }
 
 .body {
@@ -20,4 +24,76 @@
         background-repeat: no-repeat;
         background-size: cover;
         background-attachment: fixed;
+}
+
+.Ahh  {
+    float: left;
+    width: 44%;
+    padding: 50px;
+    height: 300px;
+    box-sizing: content-box;
+    background-image: url(német.jpg);
+    border: 2px solid black;
+}
+
+.row {
+    content: "";
+    display: table;
+    clear: both;
+}
+.Betű1 {
+    color: black;
+    font-size: 28px;
+}
+
+.Betű2 {
+    font-size: 22px;
+}
+
+.Betű3 {
+    font-size: 30px;
+    color: red;
+}
+
+.Nagycímek {
+    font-size: 45px;
+}
+.Ahh2 {
+        float: left;
+        width: 44%;
+        padding: 50px;
+        height: 300px;
+        box-sizing: content-box;
+        border: 2px solid black;
+        color: black;
+        background: rgba(192, 192, 192, 0.5)
+}
+
+.btn {
+    border: 2px solid black;
+    background-color: white;
+    color:black;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.gomb {
+    background: lightblue;
+    color: blue;
+}
+
+.gomb:hover {
+    background: lightcoral;
+    color: gold;
+}
+
+.gomb2 {
+    background: lightpink;
+    color: black;
+}
+
+.gomb2:hover {
+    background: purple;
+    color:gold;
 }
