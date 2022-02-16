@@ -17,16 +17,16 @@ randomlinks[14]="https://www.youtube.com/watch?v=WBs3G1PvyfM";
 randomlinks[15]="https://www.youtube.com/watch?v=UjERYchpESk";
 randomlinks[16]="https://www.youtube.com/watch?v=U06jlgpMtQs";
 randomlinks[17]="https://www.youtube.com/watch?v=62EH5quV6dM";
-randomlinks[18]="https://www.youtube.com/watch?v=4jQPwxP83Oo";
-randomlinks[19]="https://www.youtube.com/watch?v=Jr3Z9qtBk7k";
-randomlinks[20]="https://www.youtube.com/watch?v=GxWiRU1wrPo";
-randomlinks[21]="https://www.youtube.com/watch?v=rXr-Kfa4_cY";
-randomlinks[22]="https://www.youtube.com/watch?v=mobtxEJHhY4";
-randomlinks[23]="https://www.youtube.com/watch?v=D1AYngyOrZs";
-randomlinks[24]="https://www.youtube.com/watch?v=7JStbvjy8k0";
-randomlinks[25]="https://www.youtube.com/watch?v=QXYOqguWx04";
-randomlinks[26]="https://www.youtube.com/watch?v=4qskDwvwmGI";
-randomlinks[27]="https://www.youtube.com/watch?v=aZ7htQofqnE";
+randomlinks[18]="https://www.youtube.com/watch?v=Jr3Z9qtBk7k";
+randomlinks[19]="https://www.youtube.com/watch?v=GxWiRU1wrPo";
+randomlinks[20]="https://www.youtube.com/watch?v=rXr-Kfa4_cY";
+randomlinks[21]="https://www.youtube.com/watch?v=mobtxEJHhY4";
+randomlinks[22]="https://www.youtube.com/watch?v=D1AYngyOrZs";
+randomlinks[23]="https://www.youtube.com/watch?v=7JStbvjy8k0";
+randomlinks[24]="https://www.youtube.com/watch?v=QXYOqguWx04";
+randomlinks[25]="https://www.youtube.com/watch?v=4qskDwvwmGI";
+randomlinks[26]="https://www.youtube.com/watch?v=aZ7htQofqnE";
+randomlinks[27]="https://www.youtube.com/watch?v=4mwMR7j8g5c";
 
 
 function randomlink(){
